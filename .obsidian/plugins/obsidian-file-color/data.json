@@ -1,0 +1,58 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "01cmZWHY8gfVyJsSIJ3xL",
+      "name": "red",
+      "value": "#e22c3c"
+    },
+    {
+      "id": "8ADnzOGmkdPVOv_kgtqir",
+      "name": "green",
+      "value": "#92e649"
+    },
+    {
+      "id": "zSwBANpC5--lEJT7Jca6D",
+      "name": "orange",
+      "value": "#ed6022"
+    },
+    {
+      "id": "YtdQBLKZOsFvfyqfTXdHT",
+      "name": "yellow",
+      "value": "#ffd63d"
+    },
+    {
+      "id": "CkkVuIUtWcuwiQAIrRbRm",
+      "name": "blue",
+      "value": "#3b87f0"
+    },
+    {
+      "id": "CjUROObsajeeeTQNPHxC9",
+      "name": "manila",
+      "value": "#f3deaf"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Qanoun",
+      "color": "01cmZWHY8gfVyJsSIJ3xL"
+    },
+    {
+      "path": "Gnosis",
+      "color": "zSwBANpC5--lEJT7Jca6D"
+    },
+    {
+      "path": "Osmosis",
+      "color": "YtdQBLKZOsFvfyqfTXdHT"
+    },
+    {
+      "path": "Techne",
+      "color": "CkkVuIUtWcuwiQAIrRbRm"
+    },
+    {
+      "path": "Deen",
+      "color": "8ADnzOGmkdPVOv_kgtqir"
+    }
+  ]
+}

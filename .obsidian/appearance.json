@@ -1,0 +1,10 @@
+{
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "#727c6a",
+  "enabledCssSnippets": [
+    "Note Themes",
+    "Notebook Backgrounds"
+  ]
+}
