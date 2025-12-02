@@ -2,7 +2,7 @@
 date: 2025-12-01
 cssclasses:
   - page
-  - yellow
+  - tangerine
 ---
 > The process of absorbing knowledge gradually and passively through Books and Videos/Podcasts.
 

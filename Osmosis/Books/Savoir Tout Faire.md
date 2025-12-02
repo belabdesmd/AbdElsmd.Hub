@@ -2,7 +2,7 @@
 date: 2025-11-30
 cssclasses:
   - page
-  - yellow
+  - tangerine
 title: Savoir Tout Faire
 author: Flammarion
 status: To Read

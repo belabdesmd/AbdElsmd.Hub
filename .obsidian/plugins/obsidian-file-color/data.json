@@ -31,6 +31,11 @@
       "id": "CjUROObsajeeeTQNPHxC9",
       "name": "manila",
       "value": "#f3deaf"
+    },
+    {
+      "id": "v6aoHAaY2Qe9o10M6eBBS",
+      "name": "tangerine",
+      "value": "#f65848"
     }
   ],
   "fileColors": [
@@ -44,11 +49,11 @@
     },
     {
       "path": "Osmosis",
-      "color": "YtdQBLKZOsFvfyqfTXdHT"
+      "color": "v6aoHAaY2Qe9o10M6eBBS"
     },
     {
       "path": "Techne",
-      "color": "CkkVuIUtWcuwiQAIrRbRm"
+      "color": "YtdQBLKZOsFvfyqfTXdHT"
     },
     {
       "path": "Deen",

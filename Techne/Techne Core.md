@@ -2,7 +2,7 @@
 date: 2025-12-01
 cssclasses:
   - page
-  - blue
+  - yellow
 ---
 ### Practical
 

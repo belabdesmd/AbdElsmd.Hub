@@ -2,7 +2,7 @@
 date: <%*tR += tp.date.now("YYYY-MM-DD") + "\n"%>
 cssclasses:
   - page
-  - yellow
+  - tangerine
 title: "{{title}}"
 author: "{{author}}"
 status: "{{status}}"

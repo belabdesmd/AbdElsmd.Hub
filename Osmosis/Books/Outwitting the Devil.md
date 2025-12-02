@@ -2,7 +2,7 @@
 date: 2025-12-01
 cssclasses:
   - page
-  - yellow
+  - tangerine
 title: Outwitting the Devil
 author: Napoleon Hill
 status: To Read

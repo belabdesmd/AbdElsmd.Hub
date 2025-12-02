@@ -7,9 +7,9 @@ date: <%*tR += tp.date.now("YYYY-MM-DD") + "\n"%>
 	} else if (folder.contains("Gnosis")) {
 		tR += "cssclasses: [page, orange]";
 	} else if (folder.contains("Techne")) {
-		tR += "cssclasses: [page, blue]";
-	} else if (folder.contains("Osmosis")) {
 		tR += "cssclasses: [page, yellow]";
+	} else if (folder.contains("Osmosis")) {
+		tR += "cssclasses: [page, tangerine]";
 	} else if (folder.contains("Religion")) {
 		tR += "cssclasses: [page, green]";
 	}
