@@ -80,6 +80,13 @@
         "type": "FILES",
         "pattern": "Techne/Techne Core.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Progressions.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
